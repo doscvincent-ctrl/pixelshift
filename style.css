@@ -272,7 +272,7 @@ ul { list-style: none; }
 /* ===== LAYOUT WITH SIDEBAR ===== */
 .layout-with-sidebar {
   display: grid;
-  grid-template-columns: 1fr 200px;
+  grid-template-columns: 1fr;
   gap: 32px;
   align-items: start;
   padding: 48px 0;
